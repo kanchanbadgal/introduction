@@ -1,3 +1,3 @@
-# introduction
-this is my first repository
+# Introduction
+This is my first repository
 AUTHOR:- KANCHAN
